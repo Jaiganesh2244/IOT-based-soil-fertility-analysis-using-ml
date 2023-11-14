@@ -19,3 +19,10 @@ The timely monitoring provided by smart agro devices enables farmers to take pre
 # Conclusion
 In conclusion, the integration of smart agro devices with IoT sensors and ML algorithms represents a pivotal advancement in agriculture. By providing timely and accurate information on soil conditions, these devices empower farmers to optimize crop management practices. This not only enhances individual farm productivity but also contributes significantly to the overall economic growth and progress of the nation.
 
+![WhatsApp Image 2023-11-15 at 00 53 30_9965f11b](https://github.com/Jaiganesh2244/IOT-based-soil-fertility-analysis-using-ml/assets/150842358/08151daa-5fd6-4e14-ac4e-0b9ba90e125e)
+
+![WhatsApp Image 2023-11-15 at 00 53 30_ab6f9143](https://github.com/Jaiganesh2244/IOT-based-soil-fertility-analysis-using-ml/assets/150842358/ab6deaba-1a9d-48fa-9064-2a3e475e5aca)
+
+![WhatsApp Image 2023-11-15 at 00 55 10_a1f6e798](https://github.com/Jaiganesh2244/IOT-based-soil-fertility-analysis-using-ml/assets/150842358/63ea5d1e-ff79-4868-863e-0b52f1627f9f)
+
+![WhatsApp Image 2023-11-15 at 00 55 10_d6178e25](https://github.com/Jaiganesh2244/IOT-based-soil-fertility-analysis-using-ml/assets/150842358/9eb2ba91-9c8b-45d5-b455-31488a5d08cc)
